@@ -86,7 +86,7 @@ export const trabajos = [
     descripcion: "Video 3D del Oceano",
     materia: "Extra Curricular",
     sector: "Diseño 3D",
-    tecnologias: "blender",
+    tecnologias: "Blender",
     fotos: ["Viewport_Boya_2.png", "Viewport_Boya.png", "Viewport_Boya_3.png"],
     video: ["Boya.mp4"],
     consigna:
