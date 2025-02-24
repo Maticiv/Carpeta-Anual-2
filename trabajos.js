@@ -87,7 +87,7 @@ export const trabajos = [
     materia: "Extra Curricular",
     sector: "Diseño 3D",
     tecnologias: "Blender",
-    fotos: ["Viewport_Boya_2.png", "Viewport_Boya.png", "Viewport_Boya_3.png"],
+    fotos: ["Viewport_Boya_2.PNG", "Viewport_Boya.PNG", "Viewport_Boya_3.PNG"],
     video: ["Boya.mp4"],
     consigna:
       "Este es uno de mis trabajos por fuera de la facultad que hice como práctica para aprender a usar blender",
